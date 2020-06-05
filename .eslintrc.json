@@ -42,7 +42,8 @@
         "ts": "never",
         "tsx": "never"
       }
-    ]
+    ],
+    "camelcase": ["off", { "properties": "never" }]
   },
   "settings": {
     "import/resolver": {
